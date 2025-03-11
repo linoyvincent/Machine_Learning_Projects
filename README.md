@@ -146,7 +146,7 @@ The dataset contains several important attributes:
 
 
 
-# ❤ Heart Attack Prediction - EDA & Machine Learning (Decision Tree Classification)
+#  Heart Attack Prediction - EDA & Machine Learning (Decision Tree Classification)
 
 ##  Introduction
 This project focuses on performing **Exploratory Data Analysis (EDA)** and building a **Decision Tree Classifier** to predict the likelihood of a heart attack based on patient attributes. The dataset contains various health indicators and demographics that are crucial in determining the probability of heart disease.
